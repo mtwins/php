@@ -3,7 +3,7 @@
 class HelloWorldTest extends PHPUnit_Framework_TestCase
 {
     /**
-     * @var PDO
+     *  @var PDO
      */
     private $pdo;
 
